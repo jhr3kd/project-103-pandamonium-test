@@ -55,7 +55,7 @@ ROOT_URLCONF = 'skillshare.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['interest_groups/templates/',],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

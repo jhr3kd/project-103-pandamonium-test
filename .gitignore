@@ -1,2 +1,8 @@
 
 \.vscode/
+
+interest_groups/migrations/__pycache__/
+
+interest_groups/__pycache__/
+
+skillshare/__pycache__/
